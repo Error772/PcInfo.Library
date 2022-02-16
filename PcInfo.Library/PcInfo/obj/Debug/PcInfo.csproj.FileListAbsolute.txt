@@ -1,0 +1,5 @@
+E:\Ali\PcInfo.Library\PcInfo\bin\Debug\PcInfo.dll
+E:\Ali\PcInfo.Library\PcInfo\bin\Debug\PcInfo.pdb
+E:\Ali\PcInfo.Library\PcInfo\obj\Debug\PcInfo.csproj.CoreCompileInputs.cache
+E:\Ali\PcInfo.Library\PcInfo\obj\Debug\PcInfo.dll
+E:\Ali\PcInfo.Library\PcInfo\obj\Debug\PcInfo.pdb
